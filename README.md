@@ -10,5 +10,12 @@ You will need ffmpeg to render the animation, or any other renderer, such as Ima
 
 This implementation was based on Xin-She Yang's Nature-Inspired Optimization Algorithms pseudocode, although minor variations are present. Another resource i found valuable was [this article](https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/)
 
+If you're still here, you deserve a prize, here are some animations:
 
+![GIF 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhjODB5ZnJteGVzMzRyOGNxMHRua3FkZmg3b3lhYnFxMzNsdGlrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FZpXPxRp8IKuTnHOJR/giphy.gif)
 
+![GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ6YWNoMDhjOXoxdTJ4dmltbXoyNmQ0cmczc2w4ZjZiY3llMXZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VWTXF7MCktEyeOfr4W/giphy.gif)
+
+![GIF 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGYyZ3U1d3B6a2Zxeno1ZnE3aTN2cTNua3FkeHh0Zmk1dTR5Y3MxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUnoDWNGYw84PBpCPf/giphy.gif)
+
+![GIF 4](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FudTlhNGFuemVzajg4ZXV0N2N1MXNocjRycWQwb2I1N3pmMGc2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q111wHiOV90HLN7qT5/giphy.gif)
